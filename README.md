@@ -1,2 +1,2 @@
-# Grocery_Website
-Sample Grocery Website Template
+# Sample Online Vegitable Store Template
+Sample Online Vegitable Store Template
